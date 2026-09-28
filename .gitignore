@@ -1,0 +1,6 @@
+.netlify/
+*.zip
+index.backup-*.html
+iniciar-site.bat
+mata_copy.png
+publicar.bat
